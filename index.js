@@ -56,9 +56,13 @@ const installPackages = () => {
       `npm install -D react-router react-router-dom`,
       () => {
         console.log('\nFinished installing packages\n'.green)
+        shell.cd('src');
+        shell.rm('logo.svg')
+        shell.cd('..')
         resolve()
       }
     )
+  
   })
 }
 
