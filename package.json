@@ -19,6 +19,6 @@
   },
   "bin": {
     "cra-clean": "index.js"
-  },
+  }
   
 }
