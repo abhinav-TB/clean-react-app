@@ -1,0 +1,23 @@
+{
+  "name": "clean-react-router-app",
+  "version": "1.1.1",
+  "description": "a small library for adding routing features to create-react-app and removing unneccesary files coming with it",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-start": "nodemon index.js"
+  },
+  "author": "Abhinav T B",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "shelljs": "^0.7.8"
+  },
+  "bin": {
+    "clean-react-router-app": "index.js"
+  }
+}
