@@ -59,6 +59,8 @@ const installPackages = () => {
         shell.cd('src');
         shell.rm('logo.svg')
         shell.mkdir('components')
+        shell.rm('App.css')
+        shell.touch('App.css')
         shell.cd('..')
         resolve()
       }
