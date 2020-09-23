@@ -20,7 +20,6 @@ here app-name is the name of your app
 * clean-react-app installs the necessary packages for routing by default
 * It also has a file named routes.js with all functionalities of routes setup
 * It removes the the react logo and default styles on app.js so that the user dont 
-
   have to do that manually
 
 
