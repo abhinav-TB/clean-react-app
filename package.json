@@ -1,5 +1,5 @@
 {
-  "name": "clean-react-router-app",
+  "name": "clean-react-app",
   "version": "1.1.1",
   "description": "a small library for adding routing features to create-react-app and removing unneccesary files coming with it",
   "main": "index.js",
@@ -18,6 +18,6 @@
     "shelljs": "^0.7.8"
   },
   "bin": {
-    "clean-react-router-app": "index.js"
+    "clean-react-app": "index.js"
   }
 }
