@@ -3,7 +3,7 @@
 ## INSTALLATION
 
 ```text
-npm install -g clean-react-app
+npm install -g cra-clean
 ```
 
 ## CREATING A NEW REACT APP

@@ -1,5 +1,5 @@
 {
-  "name": "clean-react-app",
+  "name": "cra-clean",
   "version": "1.0.0",
   "description": "a small library for adding routing features to create-react-app and removing unneccesary files coming with it",
   "main": "index.js",
@@ -14,10 +14,10 @@
   "author": "Abhinav",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.1.2",
+    "colors": "^1.4.0",
     "shelljs": "^0.7.8"
   },
   "bin": {
-    "clean-react-app": "index.js"
+    "cra-clean": "index.js"
   }
 }
