@@ -58,6 +58,7 @@ const installPackages = () => {
         console.log('\nFinished installing packages\n'.green)
         shell.cd('src');
         shell.rm('logo.svg')
+        shell.mkdir('components')
         shell.cd('..')
         resolve()
       }
