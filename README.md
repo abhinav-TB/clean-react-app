@@ -9,7 +9,7 @@ npm install -g cra-clean
 ## CREATING A NEW REACT APP
 
 ```text
-clean-react-app app-name
+cra-clean app-name
 ```
 
 here app-name is the name of your app
