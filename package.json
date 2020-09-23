@@ -1,6 +1,6 @@
 {
   "name": "clean-react-app",
-  "version": "1.1.1",
+  "version": "1.0.0",
   "description": "a small library for adding routing features to create-react-app and removing unneccesary files coming with it",
   "main": "index.js",
   "repository": {
@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev-start": "nodemon index.js"
   },
-  "author": "Abhinav T B",
+  "author": "Abhinav",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.1.2",
