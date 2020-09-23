@@ -33,7 +33,7 @@ const createReactApp = () => {
     } else {
       console.log('\nNo app name was provided.'.red)
       console.log('\nProvide an app name in the following format: ')
-      console.log('\ncreate-react-redux-router-app ', 'app-name\n'.cyan)
+      console.log('\ncra-clean ', 'app-name\n'.cyan)
       resolve(false)
     }
   })
