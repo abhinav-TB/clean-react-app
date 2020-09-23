@@ -20,5 +20,5 @@
   "bin": {
     "cra-clean": "index.js"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  
 }
