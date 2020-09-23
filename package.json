@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
-    "shelljs": "^0.7.8"
+    "shelljs": "^0.8.0"
   },
   "bin": {
     "cra-clean": "index.js"
