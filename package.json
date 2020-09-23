@@ -1,6 +1,6 @@
 {
   "name": "cra-clean",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a small library for adding routing features to create-react-app and removing unneccesary files coming with it",
   "main": "index.js",
   "repository": {
